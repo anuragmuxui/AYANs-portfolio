@@ -1,12 +1,20 @@
+![](./ReadMeImages/ReadMeBanner.png)
 # Ayan's Portfolio website [React Project]
 
-## Watch On YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/esC2k9z7w2U?style=social) : [Watch Now][youtubelink]
+**Watch On YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/esC2k9z7w2U?style=social) : [Watch Now][youtubelink]**
 
-## Live Preview: [Open Link][preview]
+**Live Preview: [Open Link][preview]**
 
-Coded by - [shaif Arfan](http://instagram.com/shaifarfan08) | [web cifar](http://webcifar.com)
 
-![](./ReadMeImages/ReadMeBanner.png)
+---
+
+### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
+
+Like my works and want to support me?
+
+<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
+
+---
 
 ## Project Details
 
@@ -55,6 +63,10 @@ npm start
 ## want to use the website ?
 
 This website is made for educational purposes. Also, this will be free to use. Though a proper credit will be appreciated.
+
+## Other projects
+
+📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
 
 # If you like the tutorial, please share this with others.
 
